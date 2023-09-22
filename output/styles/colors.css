@@ -1,4 +1,7 @@
 :root {
   /* COLOR */
   --primary-200: rgb(224, 208, 248);
+  --primary-300: rgb(193, 162, 242);
+  --primary-400: rgb(163, 115, 235);
+  --primary-600: rgb(128, 45, 255);
 }
